@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofamily/static/css/main.9cb41c79.chunk.css",
+    "main.js": "/robofamily/static/js/main.8efbf98f.chunk.js",
+    "main.js.map": "/robofamily/static/js/main.8efbf98f.chunk.js.map",
+    "runtime-main.js": "/robofamily/static/js/runtime-main.23f57fcd.js",
+    "runtime-main.js.map": "/robofamily/static/js/runtime-main.23f57fcd.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robofamily/static/css/2.31461e4f.chunk.css",
+    "static/js/2.71971fe1.chunk.js": "/robofamily/static/js/2.71971fe1.chunk.js",
+    "static/js/2.71971fe1.chunk.js.map": "/robofamily/static/js/2.71971fe1.chunk.js.map",
+    "static/js/3.38d8fe8a.chunk.js": "/robofamily/static/js/3.38d8fe8a.chunk.js",
+    "static/js/3.38d8fe8a.chunk.js.map": "/robofamily/static/js/3.38d8fe8a.chunk.js.map",
+    "index.html": "/robofamily/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robofamily/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.9cb41c79.chunk.css.map": "/robofamily/static/css/main.9cb41c79.chunk.css.map",
+    "static/js/2.71971fe1.chunk.js.LICENSE.txt": "/robofamily/static/js/2.71971fe1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofamily/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23f57fcd.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.71971fe1.chunk.js",
+    "static/css/main.9cb41c79.chunk.css",
+    "static/js/main.8efbf98f.chunk.js"
+  ]
+}
